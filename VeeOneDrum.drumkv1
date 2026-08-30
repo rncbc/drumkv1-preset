@@ -1,5 +1,6 @@
 <!DOCTYPE drumkv1>
 <preset name="VeeOneDrum" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
+ <comments>The samples used were recorded directly from SynthV1 Factory presets</comments>
  <elements>
   <element index="24">
    <sample index="0" name="GEN1_SAMPLE">24-FX-VeeOneDrum.ogg</sample>
