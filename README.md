@@ -58,5 +58,5 @@ We do not use GitHub Issues for questions. Please submit all inquiries and sugge
 You are welcome to submit multiple presets at once. We do not accept configuration files (`.drumkv1.conf`) used to supply banks. To propose new banks, please open a discussion thread in the [official DrumkV1 forum](https://www.rncbc.org/drupal/forum/19).
 
 ### Submission Methods
-* **Via GitHub:** Fork this repository, create a branch, and submit a Pull Request with your presets.
-* **Via Forum:** Register at the [official DrumkV1 forum](https://www.rncbc.org/drupal/forum/19) and post your presets inside a compressed `.zip` file.
+* **Via GitHub:** Fork this repository, create a branch, and submit a Pull Request with your presets (including those samples that are not in the repository).
+* **Via Forum:** Register at the [official DrumkV1 forum](https://www.rncbc.org/drupal/forum/19) and post your presets (including those samples that are not in the repository) inside a compressed `.zip` file.
