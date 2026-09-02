@@ -20,7 +20,7 @@
 
 ## Pianos, Electric Pianos, Acoustic Instruments, and Orchestral Material
 
-* **Splendid Grand Piano (Samples — AKAI / kinwie)**
+* **Splendid Grand Piano (Samples — AKAI)**
   * *Description:* A classic Steinway grand piano sample library featuring 4 velocity layers.
   * *Link:* [GitHub - sfzinstruments/SplendidGrandPiano](https://github.com/sfzinstruments/SplendidGrandPiano)
 
@@ -28,7 +28,7 @@
   * *Description:* It contains samples of a 1958 Otto Rubner double bass.
   * *Link:* [GitHub - sfzinstruments/karoryfer.meatbass](https://github.com/sfzinstruments/karoryfer.meatbass)
 
-* **Shinyguitar Samples (Sample — Karoryfer)**
+* **Shinyguitar Samples (Samples — Karoryfer)**
   * *Description:* It contains samples of an archtop electric guitar.
   * *Link:* [GitHub - sfzinstruments/karoryfer.shinyguitar](https://github.com/sfzinstruments/karoryfer.shinyguitar)
 
