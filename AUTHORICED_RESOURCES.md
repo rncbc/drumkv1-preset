@@ -4,8 +4,8 @@
 
 * **DrumkV1 and SamplV1 Factory Presets**
   * *Description:* Since these are samplers, their factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall repository lightweight.
-  * *Link:* [DrumkV1 Factory Presets](https://github.com)
-  * *Link:* [SamplV1 Factory Presets](https://github.com)
+  * *Link:* [DrumkV1 Factory Presets](https://github.com/rncbc/drumkv1-preset)
+  * *Link:* [SamplV1 Factory Presets](https://github.com/rncbc/samplv1-preset)
 
 * **SynthV1 (Rui Nuno Capela)**
   * *Description:* An old-school subtractive synthesizer. Its factory presets cover classic synth sounds, acoustic approximations, drum kits, and sound effects (FX).
@@ -19,7 +19,7 @@
 
 * **Splendid Grand Piano Samples (AKAI / kinwie)**
   * *Description:* A classic Steinway grand piano sample library featuring 4 velocity layers.
-  * *Link:* [GitHub - sfzinstruments/SplendidGrandPiano](https://github.com)
+  * *Link:* [GitHub - sfzinstruments/SplendidGrandPiano](https://github.com/)
 
 * **Synth EP-MK1 (Mike Moreno DSP)**
   * *Description:* A physical modeling synthesizer replicating a classic Rhodes electric piano.
