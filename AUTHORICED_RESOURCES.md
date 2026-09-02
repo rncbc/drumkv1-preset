@@ -19,7 +19,7 @@
   * *Link:* [SynthV1](https://sourceforge.net/projects/synthv1/)
  
 * **Yoshimi (Synth — Yoshimi Project)**
-* *Description:* A sophisticated software synthesizer with additive, subtractive, pad, vector, and wavetable synthesis capabilities. Its preset banks also include electronic drum kits, synthesized acoustic-style drum sounds, and a large collection of melodic synth sounds.
+  * *Description:* A sophisticated software synthesizer with additive, subtractive, pad, vector, and wavetable synthesis capabilities. Its preset banks also include electronic drum kits, synthesized acoustic-style drum sounds, and a large collection of melodic synth sounds.
   * *Link:* [Yoshimi](https://github.com/Yoshimi/yoshimi/)
 
 * **PadthV1 (Rui Nuno Capela)**
