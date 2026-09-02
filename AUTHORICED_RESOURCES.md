@@ -28,7 +28,7 @@
   * *Description:* It contains samples of a 1958 Otto Rubner double bass.
   * *Link:* [GitHub - sfzinstruments/karoryfer.meatbass](https://github.com/sfzinstruments/karoryfer.meatbass)
 
-* **Shinyguitar Samples (Samples — Karoryfer)**
+* **Shinyguitar (Samples — Karoryfer)**
   * *Description:* It contains samples of an archtop electric guitar.
   * *Link:* [GitHub - sfzinstruments/karoryfer.shinyguitar](https://github.com/sfzinstruments/karoryfer.shinyguitar)
 
