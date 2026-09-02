@@ -1,5 +1,7 @@
 # List of Authorized Resources
 
+If you'd like to propose additional resources that enable creating, modifying, or sourcing samples that can be released under a universal license, please post them on the [official DrumkV1 forum](https://www.rncbc.org/drupal/forum/drumkv1) and we'll discuss them.
+
 ## General Purpose
 
 ### Samples
