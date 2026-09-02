@@ -3,7 +3,7 @@
 ## General Purpose
 
 * **DrumkV1 and SamplV1 Factory Presets**
-  * *Description:* Since these are samplers, their factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall factory presets lightweight.
+  * *Description:* Since these are samplers, their factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall repository lightweight.
   * *Link:* [DrumkV1 Factory Presets](https://github.com)
   * *Link:* [SamplV1 Factory Presets](https://github.com)
 
