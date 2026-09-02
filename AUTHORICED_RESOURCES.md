@@ -2,11 +2,11 @@
 
 ## General Purpose
 
-* **DrumkV1 Factory Presets (Factory Presets / Samples)**
+* **DrumkV1 Factory Presets (Samples)**
   * *Description:* Since DrumkV1 is a sampler, its factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall repository lightweight.
   * *Link:* [DrumkV1 Factory Presets](https://github.com/rncbc/drumkv1-preset)
 
-* **SamplV1 Factory Presets (Factory Presets / Samples)**
+* **SamplV1 Factory Presets (Samples)**
   * *Description:* Since SamplV1 is a sampler, its factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall repository lightweight.
   * *Link:* [SamplV1 Factory Presets](https://github.com/rncbc/samplv1-preset)
 
@@ -20,11 +20,11 @@
 
 ## Pianos, Electric Pianos, Acoustic Instruments, and Orchestral Material
 
-* **Splendid Grand Piano Samples (Sample — AKAI / kinwie)**
+* **Splendid Grand Piano (Samples — AKAI / kinwie)**
   * *Description:* A classic Steinway grand piano sample library featuring 4 velocity layers.
   * *Link:* [GitHub - sfzinstruments/SplendidGrandPiano](https://github.com/sfzinstruments/SplendidGrandPiano)
 
-* **Meatbass Samples (Sample — Karoryfer)**
+* **Meatbass (Samples — Karoryfer)**
   * *Description:* It contains samples of a 1958 Otto Rubner double bass.
   * *Link:* [GitHub - sfzinstruments/karoryfer.meatbass](https://github.com/sfzinstruments/karoryfer.meatbass)
 
@@ -32,11 +32,11 @@
   * *Description:* It contains samples of an archtop electric guitar.
   * *Link:* [GitHub - sfzinstruments/karoryfer.shinyguitar](https://github.com/sfzinstruments/karoryfer.shinyguitar)
 
-* **War Tuba Samples (Sample — Karoryfer)**
+* **War Tuba (Samples — Karoryfer)**
   * *Description:* It contains samples of a tuba.
   * *Link:* [GitHub - sfzinstruments/karoryfer.war-tuba](https://github.com/sfzinstruments/karoryfer.war-tuba)
 
-* **Versilian Studios Chamber Orchestra Samples (Sample — VSCO 2 Community Edition)**
+* **Versilian Studios Chamber Orchestra (Samples — VSCO 2 Community Edition)**
   * *Description:* The definitive open-source reference library for traditional orchestral instruments.
   * *Link:* [GitHub - sgossner/VSCO-2-CE](https://github.com/sgossner/VSCO-2-CE)
 
@@ -46,11 +46,11 @@
 
 ## Percussion and Drums
 
-* **Big Rusty Drums Samples (Sample — Karoryfer)**
+* **Big Rusty Drums (Samples — Karoryfer)**
   * *Description:* A raw, massive acoustic drum kit packed with organic imperfections.
   * *Link:* [GitHub - sfzinstruments/karoryfer.big-rusty-drums](https://github.com/sfzinstruments/karoryfer.big-rusty-drums)
 
-* **Swirly Drums Samples (Sample — Karoryfer)**
+* **Swirly Drums (Samples — Karoryfer)**
   * *Description:* A highly dynamic acoustic drum kit performed exclusively with brushes.
   * *Link:* [GitHub - sfzinstruments/karoryfer.swirly-drums](https://github.com/sfzinstruments/karoryfer.swirly-drums)
 
