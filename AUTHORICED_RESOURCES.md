@@ -47,10 +47,6 @@
   * *Description:* A digital drum machine based on pure synthesis, featuring a retro pixel art visual aesthetic and a distinctive chiptune-style character.
   * *Link:* [GitHub - JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX)
 
-* **DrumSynth (Paul Kellett / kunitoki)**
-  * *Description:* A JUCE port of the legendary drum synthesizer from the late '90s. Sound generation relies on oscillators, pitch sweeps, and filtered noise.
-  * *Links:* [GitHub - kunitoki/juced/apps/drumsynth](https://github.com/kunitoki/juced/tree/master/apps/drumsynth), [Downloadable Binary](https://sourceforge.net/projects/drumsynth/files/)
-
 * **Stegosaurus Synth (thunderox)**
   * *Description:* A gritty and rustic drum synthesizer available in LV2, VST, and DSSI formats. Excellent for raw, industrial, and lo-fi textures.
   * *Link:* [GitHub - thunderox/stegosaurus](https://github.com/thunderox/stegosaurus)
