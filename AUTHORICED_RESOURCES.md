@@ -45,7 +45,7 @@
 
 * **SaikeDrums DD-101 Synth (Joep Vanlier)**
   * *Description:* A digital drum machine based on pure synthesis, featuring a retro pixel art visual aesthetic and a distinctive chiptune-style character.
-  * *Link:* [GitHub - JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX)
+  * *Link:* [GitHub - JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX/tree/master/saikedrums)
 
 * **Stegosaurus Synth (thunderox)**
   * *Description:* A gritty and rustic drum synthesizer available in LV2, VST, and DSSI formats. Excellent for raw, industrial, and lo-fi textures.
