@@ -3,7 +3,7 @@
  <comments>The samples used were recorded directly from the magnificent Rhodes EP-MK1 modeling synthesizer: https://github.com/MikeMorenoDSP/EP-MK1</comments>
  <elements>
   <element index="24">
-   <sample index="0" name="GEN1_SAMPLE">24-C1-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">24-C1-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">24</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -40,17 +40,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="25">
-   <sample index="0" name="GEN1_SAMPLE">24-C1-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">24-C1-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">25</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -87,17 +87,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="26">
-   <sample index="0" name="GEN1_SAMPLE">24-C1-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">24-C1-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">26</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -134,17 +134,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="27">
-   <sample index="0" name="GEN1_SAMPLE">24-C1-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">24-C1-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">27</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -181,17 +181,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="28">
-   <sample index="0" name="GEN1_SAMPLE">24-C1-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">24-C1-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">28</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -228,17 +228,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="29">
-   <sample index="0" name="GEN1_SAMPLE">24-C1-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">24-C1-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">29</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -275,17 +275,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="30">
-   <sample index="0" name="GEN1_SAMPLE">24-C1-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">24-C1-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">30</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -322,17 +322,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="31">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">31</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -369,17 +369,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="32">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">32</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -416,17 +416,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="33">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">33</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -463,17 +463,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="34">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">34</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -510,17 +510,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="35">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">35</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -557,17 +557,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="36">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">36</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -604,17 +604,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="37">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">37</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -651,17 +651,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="38">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">38</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -698,17 +698,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="39">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">39</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -745,17 +745,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="40">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">40</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -792,17 +792,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="41">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">41</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -839,17 +839,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="42">
-   <sample index="0" name="GEN1_SAMPLE">36-C2-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">36-C2-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">42</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -886,17 +886,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="43">
-   <sample index="0" name="GEN1_SAMPLE">48-C3-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">48-C3-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">43</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -933,17 +933,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="44">
-   <sample index="0" name="GEN1_SAMPLE">48-C3-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">48-C3-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">44</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -980,17 +980,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="45">
-   <sample index="0" name="GEN1_SAMPLE">48-C3-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">48-C3-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">45</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1027,17 +1027,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="46">
-   <sample index="0" name="GEN1_SAMPLE">48-C3-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">48-C3-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">46</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1074,17 +1074,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="47">
-   <sample index="0" name="GEN1_SAMPLE">48-C3-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">48-C3-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">47</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1121,13 +1121,13 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="48">
@@ -1168,9 +1168,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1215,9 +1215,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1262,9 +1262,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1309,9 +1309,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1356,9 +1356,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1403,9 +1403,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1450,9 +1450,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1497,9 +1497,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1544,9 +1544,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1591,9 +1591,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1638,9 +1638,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1685,9 +1685,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1732,9 +1732,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1779,9 +1779,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1826,9 +1826,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1873,9 +1873,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1920,9 +1920,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1967,9 +1967,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -2014,9 +2014,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -2061,9 +2061,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -2108,9 +2108,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -2155,9 +2155,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -2202,9 +2202,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -2249,9 +2249,9 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -2259,7 +2259,7 @@
    </params>
   </element>
   <element index="72">
-   <sample index="0" name="GEN1_SAMPLE">72-C5-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">72-C5-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">72</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2296,17 +2296,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="73">
-   <sample index="0" name="GEN1_SAMPLE">72-C5-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">72-C5-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">73</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2343,17 +2343,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="74">
-   <sample index="0" name="GEN1_SAMPLE">72-C5-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">72-C5-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">74</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2390,17 +2390,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="75">
-   <sample index="0" name="GEN1_SAMPLE">72-C5-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">72-C5-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">75</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2437,17 +2437,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="76">
-   <sample index="0" name="GEN1_SAMPLE">72-C5-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">72-C5-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">76</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2484,17 +2484,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="77">
-   <sample index="0" name="GEN1_SAMPLE">72-C5-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">72-C5-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">77</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2531,17 +2531,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="78">
-   <sample index="0" name="GEN1_SAMPLE">72-C5-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">72-C5-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">78</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2578,17 +2578,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="79">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">79</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2625,17 +2625,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="80">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">80</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2672,17 +2672,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="81">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">81</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2719,17 +2719,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="82">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">82</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2766,17 +2766,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="83">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">83</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2813,17 +2813,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="84">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">84</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2860,17 +2860,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="85">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">85</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2907,17 +2907,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="86">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">86</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2954,17 +2954,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="87">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">87</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3001,17 +3001,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="88">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">88</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3048,17 +3048,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="89">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">89</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3095,17 +3095,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="90">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">90</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3142,17 +3142,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="91">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">91</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3189,17 +3189,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="92">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">92</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3236,17 +3236,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="93">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">93</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3283,17 +3283,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="94">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">94</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3330,17 +3330,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="95">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">95</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3377,17 +3377,17 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
   <element index="96">
-   <sample index="0" name="GEN1_SAMPLE">84-C6-Rhodes.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE">84-C6-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">96</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3424,13 +3424,13 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.8</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.3</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">0.6</param>
+    <param index="43" name="OUT1_VOLUME">0.35</param>
    </params>
   </element>
  </elements>

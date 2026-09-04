@@ -1,5 +1,6 @@
 <!DOCTYPE drumkv1>
-<preset version="1.4.2" name="VeeOneDrum">
+<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="Bright_VeeOneDrum">
+ <comments>The samples used were recorded directly from SynthV1 Factory presets</comments>
  <elements>
   <element index="24">
    <sample index="0" name="GEN1_SAMPLE">24-FX-VeeOneDrum.ogg</sample>
@@ -12,8 +13,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.7</param>
+    <param index="11" name="DCF1_RESO">0.9</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -388,12 +389,12 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.6</param>
+    <param index="11" name="DCF1_RESO">0.8</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.05</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -413,7 +414,7 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.2</param>
+    <param index="35" name="DCA1_VOLUME">0.3</param>
     <param index="36" name="DCA1_ATTACK">0</param>
     <param index="37" name="DCA1_DECAY1">0.5</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
@@ -529,8 +530,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.6</param>
+    <param index="11" name="DCF1_RESO">0.95</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -576,8 +577,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.3</param>
+    <param index="11" name="DCF1_RESO">0.7</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -623,8 +624,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.6</param>
+    <param index="11" name="DCF1_RESO">0.65</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -670,8 +671,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.7</param>
+    <param index="11" name="DCF1_RESO">0.8</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -718,11 +719,11 @@
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="11" name="DCF1_RESO">0.6</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.05</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -764,10 +765,10 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.5</param>
+    <param index="11" name="DCF1_RESO">0.6</param>
     <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">1</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
@@ -811,12 +812,12 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.4</param>
+    <param index="11" name="DCF1_RESO">0.7</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.1</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -859,11 +860,11 @@
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="11" name="DCF1_RESO">0.7</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.05</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -905,8 +906,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.9</param>
+    <param index="11" name="DCF1_RESO">0.8</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -952,12 +953,12 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.9</param>
+    <param index="11" name="DCF1_RESO">0.6</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.05</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -999,12 +1000,12 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.7</param>
+    <param index="11" name="DCF1_RESO">0.8</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.1</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -1047,11 +1048,11 @@
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="11" name="DCF1_RESO">0.5</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.05</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -1093,12 +1094,12 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.4</param>
+    <param index="11" name="DCF1_RESO">0.8</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.1</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -1140,8 +1141,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.6</param>
+    <param index="11" name="DCF1_RESO">0.75</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -1183,16 +1184,16 @@
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">0</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.4</param>
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.9</param>
+    <param index="11" name="DCF1_RESO">1</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.1</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
@@ -1306,7 +1307,7 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.6</param>
+    <param index="35" name="DCA1_VOLUME">0.7</param>
     <param index="36" name="DCA1_ATTACK">0</param>
     <param index="37" name="DCA1_DECAY1">0.5</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
@@ -1328,38 +1329,38 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.2</param>
-    <param index="11" name="DCF1_RESO">0.8</param>
+    <param index="10" name="DCF1_CUTOFF">0</param>
+    <param index="11" name="DCF1_RESO">0.9</param>
     <param index="12" name="DCF1_TYPE">2</param>
     <param index="13" name="DCF1_SLOPE">2</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.05</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
     <param index="19" name="LFO1_ENABLED">1</param>
     <param index="20" name="LFO1_SHAPE">2</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="21" name="LFO1_WIDTH">0.5</param>
     <param index="22" name="LFO1_BPM">150</param>
     <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0.8</param>
+    <param index="24" name="LFO1_SWEEP">-1</param>
+    <param index="25" name="LFO1_PITCH">1</param>
     <param index="26" name="LFO1_CUTOFF">0</param>
     <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">-0.2</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="28" name="LFO1_PANNING">0.1</param>
+    <param index="29" name="LFO1_VOLUME">0.2</param>
+    <param index="30" name="LFO1_ATTACK">0.1</param>
     <param index="31" name="LFO1_DECAY1">0.5</param>
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.9</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.6</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
     <param index="39" name="DCA1_DECAY2">0.7</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.4</param>
+    <param index="41" name="OUT1_PANNING">-0.2</param>
     <param index="42" name="OUT1_FXSEND">1</param>
     <param index="43" name="OUT1_VOLUME">1</param>
    </params>
@@ -1422,27 +1423,27 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.6</param>
+    <param index="11" name="DCF1_RESO">0.65</param>
     <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="13" name="DCF1_SLOPE">2</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="15" name="DCF1_ATTACK">0.05</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
     <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="20" name="LFO1_SHAPE">0</param>
+    <param index="21" name="LFO1_WIDTH">0.3</param>
     <param index="22" name="LFO1_BPM">180</param>
     <param index="23" name="LFO1_RATE">0.5</param>
     <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="25" name="LFO1_PITCH">0.1</param>
     <param index="26" name="LFO1_CUTOFF">0</param>
     <param index="27" name="LFO1_RESO">0</param>
     <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="29" name="LFO1_VOLUME">0.4</param>
+    <param index="30" name="LFO1_ATTACK">0.3</param>
     <param index="31" name="LFO1_DECAY1">0.5</param>
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
@@ -1516,8 +1517,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.7</param>
+    <param index="11" name="DCF1_RESO">0.9</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -1752,7 +1753,7 @@
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">0.3</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="11" name="DCF1_RESO">0.6</param>
     <param index="12" name="DCF1_TYPE">3</param>
     <param index="13" name="DCF1_SLOPE">1</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -1798,10 +1799,10 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.1</param>
-    <param index="11" name="DCF1_RESO">0.7</param>
-    <param index="12" name="DCF1_TYPE">2</param>
-    <param index="13" name="DCF1_SLOPE">2</param>
+    <param index="10" name="DCF1_CUTOFF">0.7</param>
+    <param index="11" name="DCF1_RESO">0.9</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0.1</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
@@ -1846,7 +1847,7 @@
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">0.2</param>
-    <param index="11" name="DCF1_RESO">0.3</param>
+    <param index="11" name="DCF1_RESO">0.7</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -1892,8 +1893,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
+    <param index="10" name="DCF1_CUTOFF">0.65</param>
+    <param index="11" name="DCF1_RESO">0.9</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -1935,12 +1936,12 @@
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.1</param>
+    <param index="6" name="GEN1_COARSE">-0.7</param>
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.45</param>
-    <param index="11" name="DCF1_RESO">0.6</param>
+    <param index="10" name="DCF1_CUTOFF">0.65</param>
+    <param index="11" name="DCF1_RESO">0.9</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -1982,14 +1983,14 @@
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.9</param>
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.3</param>
+    <param index="10" name="DCF1_CUTOFF">0.4</param>
     <param index="11" name="DCF1_RESO">0.8</param>
     <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">2</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>

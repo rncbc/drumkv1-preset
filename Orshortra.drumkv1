@@ -1,157 +1,21 @@
 <!DOCTYPE drumkv1>
-<preset version="1.4.2" name="VeeOneDrum">
+<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="Orshortra">
+ <comments>
+  An lo-fi instrument with a orchestral-cinematic character.
+  The samples used were recorded directly from SynthV1 Factory presets and
+  SFZ Virtuosity Drum: https://github.com/sfzinstruments/virtuosity_drums
+ </comments>
  <elements>
   <element index="24">
-   <sample index="0" name="GEN1_SAMPLE">24-FX-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">24</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
-    <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="25">
-   <sample index="0" offset-end="181390" offset-start="15828" name="GEN1_SAMPLE">25-FX-Birds-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">25</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
-    <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="26">
-   <sample index="0" offset-end="305294" offset-start="90241" name="GEN1_SAMPLE">26-FX-Noises-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">26</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">1</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.5</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
-    <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="27">
-   <sample index="0" offset-end="295054" offset-start="14018" name="GEN1_SAMPLE">30-Fn-Ocean-Waves-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">27</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">1</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -180,25 +44,166 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.3</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="25">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">25</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.083333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="26">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">26</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.166667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="27">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">27</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.25</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="28">
-   <sample index="0" offset-end="399502" offset-start="87452" name="GEN1_SAMPLE">28-FX-Siren-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">28</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -225,27 +230,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.25</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="29">
-   <sample index="0" offset-end="65678" offset-start="924" name="GEN1_SAMPLE">29-Fx-Whip-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">29</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -272,27 +277,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.3</param>
-    <param index="40" name="OUT1_WIDTH">-1</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="30">
-   <sample index="0" offset-end="31886" offset-start="2586" name="GEN1_SAMPLE">32-FX-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">30</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -319,27 +324,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.2</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="31">
-   <sample index="0" offset-end="295054" offset-start="158870" name="GEN1_SAMPLE">30-Fn-Ocean-Waves-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">31</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -366,27 +371,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.6</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.4</param>
-    <param index="38" name="DCA1_LEVEL2">0.1</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="32">
-   <sample index="0" offset-end="31886" offset-start="1897" name="GEN1_SAMPLE">32-FX-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">32</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.7</param>
+    <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -413,27 +418,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.2</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="33">
-   <sample index="0" offset-end="181390" offset-start="56120" name="GEN1_SAMPLE">25-FX-Birds-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">33</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -460,27 +465,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.3</param>
-    <param index="40" name="OUT1_WIDTH">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="34">
-   <sample index="0" offset-end="31886" offset-start="2414" name="GEN1_SAMPLE">32-FX-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">34</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">1.1</param>
+    <param index="6" name="GEN1_COARSE">-0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -507,27 +512,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="35">
-   <sample index="0" name="GEN1_SAMPLE">35-AcousticKick-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">35</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -554,27 +559,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="36">
-   <sample index="0" name="GEN1_SAMPLE">36-Kick-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">36</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -601,27 +606,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="37">
-   <sample index="0" name="GEN1_SAMPLE">37-RimShot-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">37</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -648,27 +653,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="38">
-   <sample index="0" offset-end="29838" offset-start="662" name="GEN1_SAMPLE">38-Snare-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">38</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">-0.5</param>
+    <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -695,27 +700,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.9</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="39">
-   <sample index="0" name="GEN1_SAMPLE">39-HandClap-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">39</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -742,32 +747,32 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.2</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="40">
-   <sample index="0" offset-end="34958" offset-start="0" name="GEN1_SAMPLE">40-ElectricSnare-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">40</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
     <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">1</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
@@ -789,27 +794,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="41">
-   <sample index="0" name="GEN1_SAMPLE">41-FloorTomLow-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">41</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -836,27 +841,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.2</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="42">
-   <sample index="0" name="GEN1_SAMPLE">42-ClosedHat-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">42</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -883,27 +888,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.2</param>
-    <param index="42" name="OUT1_FXSEND">0.6</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="43">
-   <sample index="0" name="GEN1_SAMPLE">41-FloorTomLow-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">43</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.6</param>
+    <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -930,27 +935,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.35</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.2</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="44">
-   <sample index="0" name="GEN1_SAMPLE">44-PedalHat-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">44</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -977,27 +982,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.2</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="45">
-   <sample index="0" name="GEN1_SAMPLE">41-FloorTomLow-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">45</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.9</param>
+    <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1024,27 +1029,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.2</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="46">
-   <sample index="0" name="GEN1_SAMPLE">46-OpenHat-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">46</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1071,27 +1076,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.2</param>
-    <param index="42" name="OUT1_FXSEND">0.7</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="47">
-   <sample index="0" name="GEN1_SAMPLE">41-FloorTomLow-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">47</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">1</param>
+    <param index="6" name="GEN1_COARSE">-0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1118,74 +1123,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.2</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="48">
-   <sample index="0" name="GEN1_SAMPLE">41-FloorTomLow-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">48</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">1.3</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">1</param>
-    <param index="11" name="DCF1_RESO">0</param>
-    <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">-1</param>
-    <param index="41" name="OUT1_PANNING">-0.2</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="49">
-   <sample index="0" name="GEN1_SAMPLE">49-Crash1-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">49</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1212,27 +1170,74 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.5</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="49">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">49</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.083333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="50">
-   <sample index="0" name="GEN1_SAMPLE">41-FloorTomLow-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">50</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">1.7</param>
+    <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1259,32 +1264,32 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.4</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="51">
-   <sample index="0" name="GEN1_SAMPLE">46-OpenHat-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">51</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">-0.9</param>
+    <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.2</param>
-    <param index="11" name="DCF1_RESO">0.75</param>
-    <param index="12" name="DCF1_TYPE">1</param>
-    <param index="13" name="DCF1_SLOPE">2</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
@@ -1306,121 +1311,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.6</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.3</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="52">
-   <sample index="0" offset-end="34958" offset-start="1980" name="GEN1_SAMPLE">44-PedalHat-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">52</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">-0.9</param>
+    <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.2</param>
-    <param index="11" name="DCF1_RESO">0.8</param>
-    <param index="12" name="DCF1_TYPE">2</param>
-    <param index="13" name="DCF1_SLOPE">2</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">2</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">150</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0.8</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">-0.2</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.9</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.7</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.4</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="53">
-   <sample index="0" name="GEN1_SAMPLE">46-OpenHat-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">53</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.25</param>
-    <param index="11" name="DCF1_RESO">0.65</param>
-    <param index="12" name="DCF1_TYPE">1</param>
-    <param index="13" name="DCF1_SLOPE">2</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.7</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.3</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="54">
-   <sample index="0" name="GEN1_SAMPLE">54-Tambourine-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">54</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1447,74 +1358,121 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.6</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="53">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">53</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.416667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="54">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">54</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.5</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="55">
-   <sample index="0" offset-end="41102" offset-start="1056" name="GEN1_SAMPLE">49-Crash1-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">55</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">-0.4</param>
+    <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.7</param>
-    <param index="11" name="DCF1_RESO">0</param>
-    <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0.4</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">0</param>
-    <param index="21" name="LFO1_WIDTH">0.4</param>
-    <param index="22" name="LFO1_BPM">60</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">-0.1</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0.2</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.7</param>
-    <param index="40" name="OUT1_WIDTH">0.5</param>
-    <param index="41" name="OUT1_PANNING">-0.3</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="56">
-   <sample index="0" name="GEN1_SAMPLE">56-Cowbell-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">56</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1541,27 +1499,74 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.3</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="56">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">56</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">-0.333333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="57">
-   <sample index="0" offset-end="41102" offset-start="1100" name="GEN1_SAMPLE">49-Crash1-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">57</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.4</param>
+    <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1588,126 +1593,126 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.4</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="58">
-   <sample index="0" offset-end="26766" offset-start="15788" name="GEN1_SAMPLE">70-Maracas-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">58</param>
-    <param index="1" name="GEN1_REVERSE">1</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">-0.166667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="59">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">59</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">-0.083333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="60">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">60</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">3</param>
-    <param index="21" name="LFO1_WIDTH">0.29</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0.7</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">-0.4</param>
-    <param index="29" name="LFO1_VOLUME">1</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.9</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.4</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.2</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="59">
-   <sample index="0" name="GEN1_SAMPLE">46-OpenHat-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">59</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.4</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.25</param>
-    <param index="11" name="DCF1_RESO">0.6</param>
-    <param index="12" name="DCF1_TYPE">1</param>
-    <param index="13" name="DCF1_SLOPE">2</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">-0.6</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.3</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="60">
-   <sample index="0" name="GEN1_SAMPLE">60-HiBongo-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">60</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">-0.1</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.1</param>
-    <param index="11" name="DCF1_RESO">0</param>
-    <param index="12" name="DCF1_TYPE">3</param>
-    <param index="13" name="DCF1_SLOPE">1</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
@@ -1729,32 +1734,32 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.7</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="61">
-   <sample index="0" offset-end="34958" offset-start="132" name="GEN1_SAMPLE">60-HiBongo-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">61</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">-0.1</param>
+    <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.3</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
-    <param index="12" name="DCF1_TYPE">3</param>
-    <param index="13" name="DCF1_SLOPE">1</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
@@ -1776,121 +1781,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.9</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.1</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0.7</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="62">
-   <sample index="0" offset-end="30862" offset-start="83" name="GEN1_SAMPLE">36-Kick-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">62</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">1.2</param>
+    <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.1</param>
-    <param index="11" name="DCF1_RESO">0.7</param>
-    <param index="12" name="DCF1_TYPE">2</param>
-    <param index="13" name="DCF1_SLOPE">2</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0.1</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.35</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.5</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="63">
-   <sample index="0" name="GEN1_SAMPLE">60-HiBongo-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">63</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.5</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.2</param>
-    <param index="11" name="DCF1_RESO">0.3</param>
-    <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">0</param>
-    <param index="41" name="OUT1_PANNING">-0.3</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="64">
-   <sample index="0" name="GEN1_SAMPLE">60-HiBongo-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">64</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1917,30 +1828,124 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">0</param>
-    <param index="41" name="OUT1_PANNING">-0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="63">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">63</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.25</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="64">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">64</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.333333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="65">
-   <sample index="0" offset-end="29838" offset-start="0" name="GEN1_SAMPLE">38-Snare-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">65</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.1</param>
+    <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.45</param>
-    <param index="11" name="DCF1_RESO">0.6</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -1954,7 +1959,7 @@
     <param index="22" name="LFO1_BPM">180</param>
     <param index="23" name="LFO1_RATE">0.5</param>
     <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">-0.3</param>
+    <param index="25" name="LFO1_PITCH">0</param>
     <param index="26" name="LFO1_CUTOFF">0</param>
     <param index="27" name="LFO1_RESO">0</param>
     <param index="28" name="LFO1_PANNING">0</param>
@@ -1964,32 +1969,32 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">0</param>
-    <param index="41" name="OUT1_PANNING">0.4</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="66">
-   <sample index="0" offset-end="29838" offset-start="0" name="GEN1_SAMPLE">38-Snare-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">66</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.3</param>
-    <param index="11" name="DCF1_RESO">0.8</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
     <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">2</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
@@ -2011,32 +2016,32 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">0.3</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="67">
-   <sample index="0" offset-end="34958" offset-start="0" name="GEN1_SAMPLE">60-HiBongo-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">67</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">1.7</param>
+    <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.3</param>
-    <param index="11" name="DCF1_RESO">0.5</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
     <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">1</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
     <param index="16" name="DCF1_DECAY1">0.5</param>
@@ -2058,27 +2063,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">-0.3</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="68">
-   <sample index="0" name="GEN1_SAMPLE">60-HiBongo-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">68</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.3</param>
+    <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2105,74 +2110,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.35</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">0</param>
-    <param index="41" name="OUT1_PANNING">-0.3</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="69">
-   <sample index="0" offset-end="28486" offset-start="21385" name="GEN1_SAMPLE">54-Tambourine-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">69</param>
-    <param index="1" name="GEN1_REVERSE">1</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.5</param>
-    <param index="11" name="DCF1_RESO">0.7</param>
-    <param index="12" name="DCF1_TYPE">0</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">3</param>
-    <param index="21" name="LFO1_WIDTH">0.8</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0.2</param>
-    <param index="29" name="LFO1_VOLUME">0.6</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.3</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="70">
-   <sample index="0" name="GEN1_SAMPLE">70-Maracas-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">70</param>
-    <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2199,27 +2157,74 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="70">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">70</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">-0.166667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="71">
-   <sample index="0" offset-end="399502" offset-start="38984" name="GEN1_SAMPLE">28-FX-Siren-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">71</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">3</param>
+    <param index="6" name="GEN1_COARSE">-0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2246,19 +2251,19 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.3</param>
-    <param index="39" name="DCA1_DECAY2">0.3</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="72">
-   <sample index="0" offset-end="83461" offset-start="75307" name="GEN1_SAMPLE">25-FX-Birds-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">72</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2266,7 +2271,7 @@
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2293,27 +2298,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.25</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="73">
-   <sample index="0" offset-end="305294" offset-start="148253" name="GEN1_SAMPLE">26-FX-Noises-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">73</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2340,27 +2345,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="74">
-   <sample index="0" offset-end="399502" offset-start="173850" name="GEN1_SAMPLE">28-FX-Siren-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">74</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.2</param>
+    <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2387,27 +2392,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.35</param>
-    <param index="38" name="DCA1_LEVEL2">0</param>
-    <param index="39" name="DCA1_DECAY2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="75">
-   <sample index="0" offset-end="295054" offset-start="165101" name="GEN1_SAMPLE">30-Fn-Ocean-Waves-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">75</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2434,27 +2439,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.3</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.35</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="76">
-   <sample index="0" offset-end="181390" offset-start="93054" name="GEN1_SAMPLE">25-FX-Birds-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">76</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2481,27 +2486,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.4</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="77">
-   <sample index="0" offset-end="65678" offset-start="9984" name="GEN1_SAMPLE">29-Fx-Whip-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">77</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">-1</param>
+    <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2528,27 +2533,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.3</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="78">
-   <sample index="0" offset-end="305294" offset-start="58818" name="GEN1_SAMPLE">26-FX-Noises-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">78</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">-1.5</param>
+    <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2575,27 +2580,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.4</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="79">
-   <sample index="0" offset-end="295054" offset-start="105913" name="GEN1_SAMPLE">30-Fn-Ocean-Waves-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">79</param>
-    <param index="1" name="GEN1_REVERSE">1</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2622,31 +2627,31 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
-    <param index="40" name="OUT1_WIDTH">-1</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="80">
-   <sample index="0" offset-end="399502" offset-start="354023" name="GEN1_SAMPLE">28-FX-Siren-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">80</param>
-    <param index="1" name="GEN1_REVERSE">1</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">1.4</param>
+    <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.2</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
-    <param index="12" name="DCF1_TYPE">2</param>
+    <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
     <param index="15" name="DCF1_ATTACK">0</param>
@@ -2669,121 +2674,27 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">-1</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="81">
-   <sample index="0" offset-end="164368" offset-start="149865" name="GEN1_SAMPLE">26-FX-Noises-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">81</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.2</param>
-    <param index="11" name="DCF1_RESO">0.6</param>
-    <param index="12" name="DCF1_TYPE">2</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">1</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.4</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="82">
-   <sample index="0" offset-end="31886" offset-start="21299" name="GEN1_SAMPLE">32-FX-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">82</param>
-    <param index="1" name="GEN1_REVERSE">1</param>
-    <param index="2" name="GEN1_OFFSET">1</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
-    <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.1</param>
-    <param index="11" name="DCF1_RESO">0.4</param>
-    <param index="12" name="DCF1_TYPE">2</param>
-    <param index="13" name="DCF1_SLOPE">0</param>
-    <param index="14" name="DCF1_ENVELOPE">1</param>
-    <param index="15" name="DCF1_ATTACK">0</param>
-    <param index="16" name="DCF1_DECAY1">0.5</param>
-    <param index="17" name="DCF1_LEVEL2">0.2</param>
-    <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
-    <param index="20" name="LFO1_SHAPE">1</param>
-    <param index="21" name="LFO1_WIDTH">1</param>
-    <param index="22" name="LFO1_BPM">180</param>
-    <param index="23" name="LFO1_RATE">0.5</param>
-    <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">0</param>
-    <param index="26" name="LFO1_CUTOFF">0</param>
-    <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">0</param>
-    <param index="29" name="LFO1_VOLUME">0</param>
-    <param index="30" name="LFO1_ATTACK">0</param>
-    <param index="31" name="LFO1_DECAY1">0.5</param>
-    <param index="32" name="LFO1_LEVEL2">0.2</param>
-    <param index="33" name="LFO1_DECAY2">0.5</param>
-    <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
-    <param index="40" name="OUT1_WIDTH">1</param>
-    <param index="41" name="OUT1_PANNING">0</param>
-    <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
-   </params>
-  </element>
-  <element index="83">
-   <sample index="0" offset-end="176782" offset-start="53735" name="GEN1_SAMPLE">30-Fn-Ocean-Waves-VeeOneDrum.ogg</sample>
-   <params>
-    <param index="0" name="GEN1_SAMPLE">83</param>
-    <param index="1" name="GEN1_REVERSE">1</param>
-    <param index="2" name="GEN1_OFFSET">1</param>
-    <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2800,37 +2711,131 @@
     <param index="22" name="LFO1_BPM">180</param>
     <param index="23" name="LFO1_RATE">0.5</param>
     <param index="24" name="LFO1_SWEEP">0</param>
-    <param index="25" name="LFO1_PITCH">1</param>
+    <param index="25" name="LFO1_PITCH">0</param>
     <param index="26" name="LFO1_CUTOFF">0</param>
     <param index="27" name="LFO1_RESO">0</param>
-    <param index="28" name="LFO1_PANNING">1</param>
+    <param index="28" name="LFO1_PANNING">0</param>
     <param index="29" name="LFO1_VOLUME">0</param>
     <param index="30" name="LFO1_ATTACK">0</param>
     <param index="31" name="LFO1_DECAY1">0.5</param>
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">1</param>
-    <param index="36" name="DCA1_ATTACK">0.05</param>
-    <param index="37" name="DCA1_DECAY1">0.3</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.3</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="82">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">82</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">-0.166667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="83">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">83</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">-0.083333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
   <element index="84">
-   <sample index="0" offset-end="102647" offset-start="83941" name="GEN1_SAMPLE">25-FX-Birds-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">84</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0.6</param>
+    <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -2857,20 +2862,584 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.4</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.4</param>
-    <param index="38" name="DCA1_LEVEL2">0</param>
-    <param index="39" name="DCA1_DECAY2">0.3</param>
-    <param index="40" name="OUT1_WIDTH">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="85">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">85</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.083333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="86">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">86</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.166667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="87">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">87</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.25</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="88">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">88</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.333333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="89">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">89</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.416667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="90">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">90</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.5</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="91">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">91</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.583333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="92">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">92</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.666667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="93">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">93</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.75</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="94">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">94</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.833333</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="95">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">95</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">0.916667</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
+   </params>
+  </element>
+  <element index="96">
+   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <params>
+    <param index="0" name="GEN1_SAMPLE">96</param>
+    <param index="1" name="GEN1_REVERSE">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
+    <param index="5" name="GEN1_GROUP">0</param>
+    <param index="6" name="GEN1_COARSE">1</param>
+    <param index="7" name="GEN1_FINE">0</param>
+    <param index="8" name="GEN1_ENVTIME">0.8</param>
+    <param index="9" name="DCF1_ENABLED">1</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
+    <param index="12" name="DCF1_TYPE">0</param>
+    <param index="13" name="DCF1_SLOPE">0</param>
+    <param index="14" name="DCF1_ENVELOPE">1</param>
+    <param index="15" name="DCF1_ATTACK">0</param>
+    <param index="16" name="DCF1_DECAY1">0.5</param>
+    <param index="17" name="DCF1_LEVEL2">0.2</param>
+    <param index="18" name="DCF1_DECAY2">0.5</param>
+    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="20" name="LFO1_SHAPE">1</param>
+    <param index="21" name="LFO1_WIDTH">1</param>
+    <param index="22" name="LFO1_BPM">180</param>
+    <param index="23" name="LFO1_RATE">0.5</param>
+    <param index="24" name="LFO1_SWEEP">0</param>
+    <param index="25" name="LFO1_PITCH">0</param>
+    <param index="26" name="LFO1_CUTOFF">0</param>
+    <param index="27" name="LFO1_RESO">0</param>
+    <param index="28" name="LFO1_PANNING">0</param>
+    <param index="29" name="LFO1_VOLUME">0</param>
+    <param index="30" name="LFO1_ATTACK">0</param>
+    <param index="31" name="LFO1_DECAY1">0.5</param>
+    <param index="32" name="LFO1_LEVEL2">0.2</param>
+    <param index="33" name="LFO1_DECAY2">0.5</param>
+    <param index="34" name="DCA1_ENABLED">1</param>
+    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="37" name="DCA1_DECAY1">1</param>
+    <param index="38" name="DCA1_LEVEL2">1</param>
+    <param index="39" name="DCA1_DECAY2">0.4</param>
+    <param index="40" name="OUT1_WIDTH">1</param>
+    <param index="41" name="OUT1_PANNING">0</param>
+    <param index="42" name="OUT1_FXSEND">1</param>
+    <param index="43" name="OUT1_VOLUME">0.5</param>
    </params>
   </element>
  </elements>
  <params>
-  <param index="0" name="GEN1_SAMPLE">61</param>
+  <param index="0" name="GEN1_SAMPLE">48</param>
   <param index="44" name="DEF1_PITCHBEND">0.2</param>
   <param index="45" name="DEF1_MODWHEEL">0.2</param>
   <param index="46" name="DEF1_PRESSURE">0.2</param>
@@ -2891,17 +3460,17 @@
   <param index="61" name="PHA1_FEEDB">0.5</param>
   <param index="62" name="PHA1_DEPTH">0.5</param>
   <param index="63" name="PHA1_DAFT">0</param>
-  <param index="64" name="DEL1_WET">0.05</param>
-  <param index="65" name="DEL1_DELAY">0.2</param>
+  <param index="64" name="DEL1_WET">0</param>
+  <param index="65" name="DEL1_DELAY">0.5</param>
   <param index="66" name="DEL1_FEEDB">0.5</param>
   <param index="67" name="DEL1_BPM">180</param>
-  <param index="68" name="REV1_WET">0.05</param>
-  <param index="69" name="REV1_ROOM">0.2</param>
+  <param index="68" name="REV1_WET">0</param>
+  <param index="69" name="REV1_ROOM">0.5</param>
   <param index="70" name="REV1_DAMP">0.5</param>
   <param index="71" name="REV1_FEEDB">0.5</param>
-  <param index="72" name="REV1_WIDTH">1</param>
+  <param index="72" name="REV1_WIDTH">0</param>
   <param index="73" name="DYN1_COMPRESS">0</param>
   <param index="74" name="DYN1_LIMITER">1</param>
  </params>
- <current-element>61</current-element>
+ <current-element>48</current-element>
 </preset>
