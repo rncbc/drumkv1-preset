@@ -1,5 +1,5 @@
 <!DOCTYPE drumkv1>
-<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="Bright_VeeOneDrum">
+<preset name="Bright_VeeOneDrum" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <comments>The samples used were recorded directly from SynthV1 Factory presets</comments>
  <elements>
   <element index="24">

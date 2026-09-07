@@ -1,5 +1,5 @@
 <!DOCTYPE drumkv1>
-<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal"  name="Urban">
+<preset name="Urban" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <comments>
   The samples used were recorded directly from SynthV1 Factory presets and
   SFZ Virtuosity Drum: https://github.com/sfzinstruments/virtuosity_drums
