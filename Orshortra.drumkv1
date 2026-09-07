@@ -6,6 +6,7 @@
   (SamplV1 samples were created with SynthV1 Factory presets).
  </comments>
  <elements>
+  <sample-rate>44100</sample-rate>
   <element index="24">
    <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
    <params>

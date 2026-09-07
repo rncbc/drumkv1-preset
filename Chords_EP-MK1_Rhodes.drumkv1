@@ -2,12 +2,13 @@
 <preset name="Chords_EP-MK1_Rhodes" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <comments>The samples used were recorded directly from the magnificent Rhodes EP-MK1 modeling synthesizer: https://github.com/MikeMorenoDSP/EP-MK1</comments>
  <elements>
+  <sample-rate>44100</sample-rate>
   <element index="24">
    <sample index="0" name="GEN1_SAMPLE">24-C1-EP-MK1_Rhodes.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">24</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -54,7 +55,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">25</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -101,7 +102,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">26</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -148,7 +149,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">27</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -195,7 +196,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">28</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -242,7 +243,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">29</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -289,7 +290,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">30</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -336,7 +337,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">31</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -383,7 +384,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">32</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -430,7 +431,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">33</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -477,7 +478,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">34</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -524,7 +525,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">35</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -571,7 +572,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">36</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -618,7 +619,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">37</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -665,7 +666,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">38</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -712,7 +713,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">39</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -759,7 +760,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">40</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -806,7 +807,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">41</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -853,7 +854,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">42</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -900,7 +901,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">43</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -947,7 +948,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">44</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -994,7 +995,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">45</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1041,7 +1042,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">46</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1088,7 +1089,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">47</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1135,7 +1136,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">48</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1182,7 +1183,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">49</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1229,7 +1230,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">50</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1276,7 +1277,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">51</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1323,7 +1324,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">52</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1370,7 +1371,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">53</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1417,7 +1418,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">54</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1464,7 +1465,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">55</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1511,7 +1512,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">56</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1558,7 +1559,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">57</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1605,7 +1606,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">58</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1699,7 +1700,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">60</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1746,7 +1747,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">61</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1793,7 +1794,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">62</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1840,7 +1841,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">63</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1887,7 +1888,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">64</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1934,7 +1935,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">65</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -1981,7 +1982,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">66</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2028,7 +2029,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">67</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2075,7 +2076,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">68</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2122,7 +2123,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">69</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2169,7 +2170,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">70</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2216,7 +2217,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">71</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2263,7 +2264,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">72</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2310,7 +2311,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">73</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2357,7 +2358,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">74</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2404,7 +2405,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">75</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2451,7 +2452,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">76</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2498,7 +2499,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">77</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2545,7 +2546,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">78</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2592,7 +2593,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">79</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2639,7 +2640,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">80</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2686,7 +2687,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">81</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2733,7 +2734,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">82</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2780,7 +2781,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">83</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2827,7 +2828,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">84</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2874,7 +2875,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">85</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.083333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2921,7 +2922,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">86</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.166667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -2968,7 +2969,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">87</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.25</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3015,7 +3016,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">88</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.333333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3062,7 +3063,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">89</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.416667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3109,7 +3110,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">90</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.5</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3156,7 +3157,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">91</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.583333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3203,7 +3204,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">92</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.666667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3250,7 +3251,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">93</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.75</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3297,7 +3298,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">94</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.833333</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3344,7 +3345,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">95</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.916667</param>
     <param index="7" name="GEN1_FINE">0</param>
@@ -3391,7 +3392,7 @@
    <params>
     <param index="0" name="GEN1_SAMPLE">96</param>
     <param index="1" name="GEN1_REVERSE">0</param>
-    <param index="2" name="GEN1_OFFSET">0</param>
+    <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">1</param>
     <param index="7" name="GEN1_FINE">0</param>
