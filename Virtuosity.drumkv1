@@ -524,7 +524,7 @@
    </params>
   </element>
   <element index="35">
-   <sample index="0" name="GEN1_SAMPLE">35-AcousticKick-Virtuosity.ogg</sample>
+   <sample index="0" offset-start="0" offset-end="38030" name="GEN1_SAMPLE">35-AcousticKick-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">35</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -561,7 +561,7 @@
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.4</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
     <param index="39" name="DCA1_DECAY2">0.5</param>
     <param index="40" name="OUT1_WIDTH">1</param>
@@ -571,13 +571,13 @@
    </params>
   </element>
   <element index="36">
-   <sample index="0" name="GEN1_SAMPLE">36-Kick-Virtuosity.ogg</sample>
+   <sample index="0" offset-start="0" offset-end="39054" name="GEN1_SAMPLE">36-Kick-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">36</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.1</param>
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
