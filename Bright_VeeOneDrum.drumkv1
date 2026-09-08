@@ -14,8 +14,8 @@
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.7</param>
-    <param index="11" name="DCF1_RESO">0.9</param>
+    <param index="10" name="DCF1_CUTOFF">1</param>
+    <param index="11" name="DCF1_RESO">0</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -47,7 +47,7 @@
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.8</param>
    </params>
   </element>
   <element index="25">
@@ -521,18 +521,18 @@
    </params>
   </element>
   <element index="35">
-   <sample index="0" name="GEN1_SAMPLE">35-AcousticKick-VeeOneDrum.ogg</sample>
+   <sample index="0" offset-start="1114" offset-end="33934" name="GEN1_SAMPLE">35-AcousticKick-VeeOneDrum.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">35</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">1</param>
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
-    <param index="10" name="DCF1_CUTOFF">0.6</param>
-    <param index="11" name="DCF1_RESO">0.95</param>
+    <param index="10" name="DCF1_CUTOFF">0.3</param>
+    <param index="11" name="DCF1_RESO">0.9</param>
     <param index="12" name="DCF1_TYPE">0</param>
     <param index="13" name="DCF1_SLOPE">0</param>
     <param index="14" name="DCF1_ENVELOPE">1</param>
@@ -556,7 +556,7 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.5</param>
+    <param index="35" name="DCA1_VOLUME">0.6</param>
     <param index="36" name="DCA1_ATTACK">0</param>
     <param index="37" name="DCA1_DECAY1">0.5</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>

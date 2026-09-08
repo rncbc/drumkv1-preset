@@ -50,7 +50,7 @@
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
-    <param index="43" name="OUT1_VOLUME">1</param>
+    <param index="43" name="OUT1_VOLUME">0.8</param>
    </params>
   </element>
   <element index="25">
