@@ -4,6 +4,7 @@
   The samples used were recorded directly from organic SFZ Virtuosity Drum:
   https://github.com/sfzinstruments/virtuosity_drums
  </comments>
+ <elements>
   <sample-rate>44100</sample-rate>
   <element index="24">
    <sample index="0" name="GEN1_SAMPLE" offset-end="22135" offset-start="0">24-FX-VeeOneDrum.ogg</sample>

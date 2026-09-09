@@ -18,6 +18,7 @@
     Softening the attacks will yield slow winds or strings.
     Experiment and enjoy.
  </comments>
+ <elements>
   <sample-rate>44100</sample-rate>
   <element index="24">
    <sample index="0" name="GEN1_SAMPLE" offset-end="234496" offset-start="6170">24-C1-Orshortra.ogg</sample>
