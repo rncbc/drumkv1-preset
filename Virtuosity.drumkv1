@@ -4,10 +4,9 @@
   The samples used were recorded directly from organic SFZ Virtuosity Drum:
   https://github.com/sfzinstruments/virtuosity_drums
  </comments>
- <elements>
   <sample-rate>44100</sample-rate>
   <element index="24">
-   <sample index="0" name="GEN1_SAMPLE">24-FX-VeeOneDrum.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="22135" offset-start="0">24-FX-VeeOneDrum.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">24</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -524,7 +523,7 @@
    </params>
   </element>
   <element index="35">
-   <sample index="0" offset-start="0" offset-end="38030" name="GEN1_SAMPLE">35-AcousticKick-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="38030" offset-start="0">35-AcousticKick-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">35</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -571,7 +570,7 @@
    </params>
   </element>
   <element index="36">
-   <sample index="0" offset-start="0" offset-end="39054" name="GEN1_SAMPLE">36-Kick-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="39054" offset-start="0">36-Kick-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">36</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -618,7 +617,7 @@
    </params>
   </element>
   <element index="37">
-   <sample index="0" name="GEN1_SAMPLE">37-RimShot-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="25742" offset-start="0">37-RimShot-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">37</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -665,7 +664,7 @@
    </params>
   </element>
   <element index="38">
-   <sample index="0" name="GEN1_SAMPLE">38-Snare-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="28814" offset-start="0">38-Snare-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">38</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -712,7 +711,7 @@
    </params>
   </element>
   <element index="39">
-   <sample index="0" name="GEN1_SAMPLE">39-HandClap-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="24576" offset-start="0">39-HandClap-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">39</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -759,7 +758,7 @@
    </params>
   </element>
   <element index="40">
-   <sample index="0" name="GEN1_SAMPLE">40-ElectricSnare-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="29838" offset-start="0">40-ElectricSnare-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">40</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -806,7 +805,7 @@
    </params>
   </element>
   <element index="41">
-   <sample index="0" name="GEN1_SAMPLE">41-FloorTomLow-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="43150" offset-start="0">41-FloorTomLow-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">41</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -853,7 +852,7 @@
    </params>
   </element>
   <element index="42">
-   <sample index="0" name="GEN1_SAMPLE">42-ClosedHat-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="25742" offset-start="0">42-ClosedHat-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">42</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -900,7 +899,7 @@
    </params>
   </element>
   <element index="43">
-   <sample index="0" name="GEN1_SAMPLE">43-FloorTomHigh-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="35982" offset-start="0">43-FloorTomHigh-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">43</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -947,7 +946,7 @@
    </params>
   </element>
   <element index="44">
-   <sample index="0" name="GEN1_SAMPLE">46-OpenHat-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="52366" offset-start="0">46-OpenHat-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">44</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -994,7 +993,7 @@
    </params>
   </element>
   <element index="45">
-   <sample index="0" name="GEN1_SAMPLE">45-LowTom-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="29838" offset-start="0">45-LowTom-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">45</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1041,7 +1040,7 @@
    </params>
   </element>
   <element index="46">
-   <sample index="0" name="GEN1_SAMPLE">46-OpenHat-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="52366" offset-start="0">46-OpenHat-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">46</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1088,7 +1087,7 @@
    </params>
   </element>
   <element index="47">
-   <sample index="0" name="GEN1_SAMPLE">47-LowMidTom-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="23694" offset-start="0">47-LowMidTom-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">47</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1135,7 +1134,7 @@
    </params>
   </element>
   <element index="48">
-   <sample index="0" name="GEN1_SAMPLE">48-HiMidTom-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="33934" offset-start="0">48-HiMidTom-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">48</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1182,7 +1181,7 @@
    </params>
   </element>
   <element index="49">
-   <sample index="0" name="GEN1_SAMPLE">49-Crash1-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="60558" offset-start="0">49-Crash1-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">49</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1217,11 +1216,11 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.3</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="39" name="DCA1_DECAY2">1</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1229,7 +1228,7 @@
    </params>
   </element>
   <element index="50">
-   <sample index="0" name="GEN1_SAMPLE">50-HiTom-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="33934" offset-start="0">50-HiTom-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">50</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1276,7 +1275,7 @@
    </params>
   </element>
   <element index="51">
-   <sample index="0" name="GEN1_SAMPLE">51-Ride1-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="23694" offset-start="204">51-Ride1-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">51</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1284,7 +1283,7 @@
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
     <param index="7" name="GEN1_FINE">0</param>
-    <param index="8" name="GEN1_ENVTIME">0.2</param>
+    <param index="8" name="GEN1_ENVTIME">0.1</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
     <param index="11" name="DCF1_RESO">0</param>
@@ -1311,11 +1310,11 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.3</param>
+    <param index="38" name="DCA1_LEVEL2">0.5</param>
+    <param index="39" name="DCA1_DECAY2">1</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1323,7 +1322,7 @@
    </params>
   </element>
   <element index="52">
-   <sample index="0" name="GEN1_SAMPLE">57-Crash2-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="55438" offset-start="0">57-Crash2-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">52</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1358,11 +1357,11 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.3</param>
+    <param index="38" name="DCA1_LEVEL2">0.4</param>
+    <param index="39" name="DCA1_DECAY2">1</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1370,7 +1369,7 @@
    </params>
   </element>
   <element index="53">
-   <sample index="0" name="GEN1_SAMPLE">53-RideBell-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="26766" offset-start="0">53-RideBell-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">53</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1405,11 +1404,11 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
+    <param index="36" name="DCA1_ATTACK">0.03</param>
+    <param index="37" name="DCA1_DECAY1">0.4</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="39" name="DCA1_DECAY2">0.8</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1417,7 +1416,7 @@
    </params>
   </element>
   <element index="54">
-   <sample index="0" name="GEN1_SAMPLE">54-Tambourine-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="29838" offset-start="0">54-Tambourine-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">54</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1452,11 +1451,11 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.3</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="39" name="DCA1_DECAY2">0.6</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1464,7 +1463,7 @@
    </params>
   </element>
   <element index="55">
-   <sample index="0" name="GEN1_SAMPLE">55-Splash-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="42126" offset-start="0">55-Splash-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">55</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1499,11 +1498,11 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
-    <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.2</param>
+    <param index="38" name="DCA1_LEVEL2">0.3</param>
+    <param index="39" name="DCA1_DECAY2">0.8</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1511,7 +1510,7 @@
    </params>
   </element>
   <element index="56">
-   <sample index="0" name="GEN1_SAMPLE">56-Cowbell-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="27790" offset-start="0">56-Cowbell-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">56</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1546,7 +1545,7 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">0.7</param>
     <param index="36" name="DCA1_ATTACK">0</param>
     <param index="37" name="DCA1_DECAY1">0.5</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
@@ -1558,13 +1557,13 @@
    </params>
   </element>
   <element index="57">
-   <sample index="0" name="GEN1_SAMPLE">57-Crash2-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="55438" offset-start="0">57-Crash2-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">57</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
-    <param index="6" name="GEN1_COARSE">0</param>
+    <param index="6" name="GEN1_COARSE">0.1</param>
     <param index="7" name="GEN1_FINE">0</param>
     <param index="8" name="GEN1_ENVTIME">0.2</param>
     <param index="9" name="DCF1_ENABLED">1</param>
@@ -1593,11 +1592,11 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.4</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
-    <param index="39" name="DCA1_DECAY2">0.5</param>
+    <param index="39" name="DCA1_DECAY2">0.8</param>
     <param index="40" name="OUT1_WIDTH">1</param>
     <param index="41" name="OUT1_PANNING">0</param>
     <param index="42" name="OUT1_FXSEND">1</param>
@@ -1605,7 +1604,7 @@
    </params>
   </element>
   <element index="58">
-   <sample index="0" name="GEN1_SAMPLE">58-VibraSlap-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="35982" offset-start="0">58-VibraSlap-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">58</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1652,7 +1651,7 @@
    </params>
   </element>
   <element index="59">
-   <sample index="0" name="GEN1_SAMPLE">59-Ride2-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="22670" offset-start="0">59-Ride2-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">59</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1687,9 +1686,9 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
-    <param index="37" name="DCA1_DECAY1">0.5</param>
+    <param index="37" name="DCA1_DECAY1">0.3</param>
     <param index="38" name="DCA1_LEVEL2">0.2</param>
     <param index="39" name="DCA1_DECAY2">0.5</param>
     <param index="40" name="OUT1_WIDTH">1</param>
@@ -1699,7 +1698,7 @@
    </params>
   </element>
   <element index="60">
-   <sample index="0" name="GEN1_SAMPLE">60-HiBongo-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="24718" offset-start="0">60-HiBongo-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">60</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1746,7 +1745,7 @@
    </params>
   </element>
   <element index="61">
-   <sample index="0" name="GEN1_SAMPLE">61-LowBongo-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="25742" offset-start="0">61-LowBongo-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">61</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1793,7 +1792,7 @@
    </params>
   </element>
   <element index="62">
-   <sample index="0" name="GEN1_SAMPLE">62-MuteHiConga-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="24718" offset-start="0">62-MuteHiConga-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">62</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1840,7 +1839,7 @@
    </params>
   </element>
   <element index="63">
-   <sample index="0" name="GEN1_SAMPLE">63-OpenHiConga-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="33934" offset-start="0">63-OpenHiConga-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">63</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1887,7 +1886,7 @@
    </params>
   </element>
   <element index="64">
-   <sample index="0" name="GEN1_SAMPLE">64-LowConga-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="33934" offset-start="0">64-LowConga-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">64</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1934,7 +1933,7 @@
    </params>
   </element>
   <element index="65">
-   <sample index="0" name="GEN1_SAMPLE">65-HighTimbale-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="30862" offset-start="0">65-HighTimbale-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">65</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1981,7 +1980,7 @@
    </params>
   </element>
   <element index="66">
-   <sample index="0" name="GEN1_SAMPLE">66-LowTimbale-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="32910" offset-start="0">66-LowTimbale-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">66</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2028,7 +2027,7 @@
    </params>
   </element>
   <element index="67">
-   <sample index="0" name="GEN1_SAMPLE">67-HighAgogo-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="26766" offset-start="0">67-HighAgogo-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">67</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2075,7 +2074,7 @@
    </params>
   </element>
   <element index="68">
-   <sample index="0" name="GEN1_SAMPLE">68-LowAgogo-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="24718" offset-start="0">68-LowAgogo-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">68</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2122,7 +2121,7 @@
    </params>
   </element>
   <element index="69">
-   <sample index="0" name="GEN1_SAMPLE">69-Cabasa-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="25742" offset-start="0">69-Cabasa-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">69</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2169,7 +2168,7 @@
    </params>
   </element>
   <element index="70">
-   <sample index="0" name="GEN1_SAMPLE">70-Maracas-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="21646" offset-start="0">70-Maracas-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">70</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2216,7 +2215,7 @@
    </params>
   </element>
   <element index="71">
-   <sample index="0" name="GEN1_SAMPLE">71-ShortWhistle-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="30862" offset-start="0">71-ShortWhistle-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">71</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2263,7 +2262,7 @@
    </params>
   </element>
   <element index="72">
-   <sample index="0" name="GEN1_SAMPLE">72-LongWhistle-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="63630" offset-start="0">72-LongWhistle-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">72</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2310,7 +2309,7 @@
    </params>
   </element>
   <element index="73">
-   <sample index="0" name="GEN1_SAMPLE">73-ShortGüiro-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="22670" offset-start="0">73-ShortGüiro-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">73</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2357,7 +2356,7 @@
    </params>
   </element>
   <element index="74">
-   <sample index="0" name="GEN1_SAMPLE">74-LongGüiro-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="21646" offset-start="0">74-LongGüiro-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">74</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2404,7 +2403,7 @@
    </params>
   </element>
   <element index="75">
-   <sample index="0" name="GEN1_SAMPLE">75-Claves-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="23694" offset-start="0">75-Claves-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">75</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2451,7 +2450,7 @@
    </params>
   </element>
   <element index="76">
-   <sample index="0" name="GEN1_SAMPLE">76-HiWoodBlock-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="22670" offset-start="0">76-HiWoodBlock-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">76</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2498,7 +2497,7 @@
    </params>
   </element>
   <element index="77">
-   <sample index="0" name="GEN1_SAMPLE">77-LowWoodBlock-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="26766" offset-start="0">77-LowWoodBlock-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">77</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2545,7 +2544,7 @@
    </params>
   </element>
   <element index="78">
-   <sample index="0" name="GEN1_SAMPLE">78-MuteCuica-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="32910" offset-start="0">78-MuteCuica-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">78</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2592,7 +2591,7 @@
    </params>
   </element>
   <element index="79">
-   <sample index="0" name="GEN1_SAMPLE">79-OpenCuica-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="40078" offset-start="0">79-OpenCuica-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">79</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2639,7 +2638,7 @@
    </params>
   </element>
   <element index="80">
-   <sample index="0" name="GEN1_SAMPLE">80-MuteTriangle-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="22670" offset-start="0">80-MuteTriangle-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">80</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2686,7 +2685,7 @@
    </params>
   </element>
   <element index="81">
-   <sample index="0" name="GEN1_SAMPLE">81-OpenTriangle-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="25742" offset-start="0">81-OpenTriangle-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">81</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2733,7 +2732,7 @@
    </params>
   </element>
   <element index="82">
-   <sample index="0" name="GEN1_SAMPLE">82-FX-Virtuosity.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="30862" offset-start="0">82-FX-Virtuosity.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">82</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2781,7 +2780,7 @@
   </element>
  </elements>
  <params>
-  <param index="0" name="GEN1_SAMPLE">30</param>
+  <param index="0" name="GEN1_SAMPLE">40</param>
   <param index="44" name="DEF1_PITCHBEND">0.2</param>
   <param index="45" name="DEF1_MODWHEEL">0.2</param>
   <param index="46" name="DEF1_PRESSURE">0.2</param>
@@ -2814,5 +2813,5 @@
   <param index="73" name="DYN1_COMPRESS">0</param>
   <param index="74" name="DYN1_LIMITER">1</param>
  </params>
- <current-element>30</current-element>
+ <current-element>40</current-element>
 </preset>

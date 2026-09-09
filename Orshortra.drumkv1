@@ -1,14 +1,26 @@
 <!DOCTYPE drumkv1>
 <preset name="Orshortra" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <comments>
-  An lo-fi instrument with a orchestral-cinematic character.
-  The samples used were recorded directly combining in a shot several PadthV1 and SamplV1 Factory presets.
-  (SamplV1 samples were created with SynthV1 Factory presets).
+    An lo-fi instrument with a orchestral-cinematic character.
+    The samples used were recorded directly combining in a shot several PadthV1 and SamplV1 Factory presets.
+    (SamplV1 samples were created with SynthV1 Factory presets).
+
+    The instrument starts with a "demo" configuration,
+    but you can customize each key using the offset and
+    envelope settings to emulate different orchestral sections.
+
+    For reference:
+
+    "Ensemble"  Attack 0, Offset 0.
+    "Winds"     Attack 0, Offset Start to X.
+    "Staccato"  Attack 0, Offset X to end.
+
+    Softening the attacks will yield slow winds or strings.
+    Experiment and enjoy.
  </comments>
- <elements>
   <sample-rate>44100</sample-rate>
   <element index="24">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="234496" offset-start="6170">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">24</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -55,7 +67,7 @@
    </params>
   </element>
   <element index="25">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="234496" offset-start="6170">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">25</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -102,7 +114,7 @@
    </params>
   </element>
   <element index="26">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="234496" offset-start="8639">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">26</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -149,7 +161,7 @@
    </params>
   </element>
   <element index="27">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="234496" offset-start="8639">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">27</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -196,7 +208,7 @@
    </params>
   </element>
   <element index="28">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="234496" offset-start="0">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">28</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -243,7 +255,7 @@
    </params>
   </element>
   <element index="29">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="234496" offset-start="0">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">29</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -290,7 +302,7 @@
    </params>
   </element>
   <element index="30">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="234496" offset-start="441">24-C1-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">30</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -337,7 +349,7 @@
    </params>
   </element>
   <element index="31">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="4656">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">31</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -372,7 +384,7 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
@@ -384,7 +396,7 @@
    </params>
   </element>
   <element index="32">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="5238">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">32</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -419,7 +431,7 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
     <param index="36" name="DCA1_ATTACK">0</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
@@ -431,7 +443,7 @@
    </params>
   </element>
   <element index="33">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="441">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">33</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -478,7 +490,7 @@
    </params>
   </element>
   <element index="34">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="441">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">34</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -525,7 +537,7 @@
    </params>
   </element>
   <element index="35">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="441">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">35</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -572,14 +584,14 @@
    </params>
   </element>
   <element index="36">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="3492">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">36</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.03</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -619,14 +631,14 @@
    </params>
   </element>
   <element index="37">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="3492">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">37</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.083333</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.081</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -666,14 +678,14 @@
    </params>
   </element>
   <element index="38">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="441">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">38</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.166667</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.036</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -713,14 +725,14 @@
    </params>
   </element>
   <element index="39">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="4656">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">39</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.25</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.033</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -760,14 +772,14 @@
    </params>
   </element>
   <element index="40">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="7566">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">40</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.333333</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.05</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -807,14 +819,14 @@
    </params>
   </element>
   <element index="41">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="4074">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">41</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.416667</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.013</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -854,14 +866,14 @@
    </params>
   </element>
   <element index="42">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="221184">36-C2-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="221184" offset-start="8148">36-C2-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">42</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.5</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.061</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -901,14 +913,14 @@
    </params>
   </element>
   <element index="43">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="6359">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">43</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.416667</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.041</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -948,14 +960,14 @@
    </params>
   </element>
   <element index="44">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="3815">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">44</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.333333</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.044</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -995,14 +1007,14 @@
    </params>
   </element>
   <element index="45">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="6359">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">45</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.25</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.061</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -1042,7 +1054,7 @@
    </params>
   </element>
   <element index="46">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="441">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">46</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1089,7 +1101,7 @@
    </params>
   </element>
   <element index="47">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="441">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">47</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1136,14 +1148,14 @@
    </params>
   </element>
   <element index="48">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="3815">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">48</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.032</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -1183,7 +1195,7 @@
    </params>
   </element>
   <element index="49">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="441">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">49</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1230,14 +1242,14 @@
    </params>
   </element>
   <element index="50">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="441">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">50</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">0.166667</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.134</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -1277,7 +1289,7 @@
    </params>
   </element>
   <element index="51">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="6995">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">51</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1312,8 +1324,8 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="35" name="DCA1_VOLUME">0.9</param>
+    <param index="36" name="DCA1_ATTACK">0.1</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -1324,7 +1336,7 @@
    </params>
   </element>
   <element index="52">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="441">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">52</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1371,7 +1383,7 @@
    </params>
   </element>
   <element index="53">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="441">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">53</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1418,7 +1430,7 @@
    </params>
   </element>
   <element index="54">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="241664">48-C3-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="241664" offset-start="6995">48-C3-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">54</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1454,7 +1466,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.1</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -1465,14 +1477,14 @@
    </params>
   </element>
   <element index="55">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">55</param>
     <param index="1" name="GEN1_REVERSE">0</param>
     <param index="2" name="GEN1_OFFSET">1</param>
     <param index="5" name="GEN1_GROUP">0</param>
     <param index="6" name="GEN1_COARSE">-0.416667</param>
-    <param index="7" name="GEN1_FINE">0</param>
+    <param index="7" name="GEN1_FINE">-0.041</param>
     <param index="8" name="GEN1_ENVTIME">0.8</param>
     <param index="9" name="DCF1_ENABLED">1</param>
     <param index="10" name="DCF1_CUTOFF">1</param>
@@ -1500,8 +1512,8 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="35" name="DCA1_VOLUME">1</param>
+    <param index="36" name="DCA1_ATTACK">0.2</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -1512,7 +1524,7 @@
    </params>
   </element>
   <element index="56">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">56</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1559,7 +1571,7 @@
    </params>
   </element>
   <element index="57">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">57</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1606,7 +1618,7 @@
    </params>
   </element>
   <element index="58">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">58</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1653,7 +1665,7 @@
    </params>
   </element>
   <element index="59">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">59</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1700,7 +1712,7 @@
    </params>
   </element>
   <element index="60">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="6338">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">60</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1747,7 +1759,7 @@
    </params>
   </element>
   <element index="61">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">61</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1794,7 +1806,7 @@
    </params>
   </element>
   <element index="62">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">62</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1841,7 +1853,7 @@
    </params>
   </element>
   <element index="63">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">63</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1877,7 +1889,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.2</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -1888,7 +1900,7 @@
    </params>
   </element>
   <element index="64">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">64</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1924,7 +1936,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.2</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -1935,7 +1947,7 @@
    </params>
   </element>
   <element index="65">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">65</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -1971,7 +1983,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.1</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -1982,7 +1994,7 @@
    </params>
   </element>
   <element index="66">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="200704">60-C4-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="200704" offset-start="441">60-C4-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">66</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2029,7 +2041,7 @@
    </params>
   </element>
   <element index="67">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">67</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2065,7 +2077,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.2</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2076,7 +2088,7 @@
    </params>
   </element>
   <element index="68">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="3263">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">68</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2123,7 +2135,7 @@
    </params>
   </element>
   <element index="69">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">69</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2170,7 +2182,7 @@
    </params>
   </element>
   <element index="70">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">70</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2206,7 +2218,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.05</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2217,7 +2229,7 @@
    </params>
   </element>
   <element index="71">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">71</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2253,7 +2265,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.4</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2264,7 +2276,7 @@
    </params>
   </element>
   <element index="72">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">72</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2300,7 +2312,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.05</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2311,7 +2323,7 @@
    </params>
   </element>
   <element index="73">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">73</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2358,7 +2370,7 @@
    </params>
   </element>
   <element index="74">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">74</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2405,7 +2417,7 @@
    </params>
   </element>
   <element index="75">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">75</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2441,7 +2453,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.05</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2452,7 +2464,7 @@
    </params>
   </element>
   <element index="76">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">76</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2488,7 +2500,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.2</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2499,7 +2511,7 @@
    </params>
   </element>
   <element index="77">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">77</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2535,7 +2547,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.4</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2546,7 +2558,7 @@
    </params>
   </element>
   <element index="78">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="177152">72-C5-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="177152" offset-start="441">72-C5-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">78</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2582,7 +2594,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.4</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2593,7 +2605,7 @@
    </params>
   </element>
   <element index="79">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="441">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">79</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2640,7 +2652,7 @@
    </params>
   </element>
   <element index="80">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="441">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">80</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2687,7 +2699,7 @@
    </params>
   </element>
   <element index="81">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="441">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">81</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2734,7 +2746,7 @@
    </params>
   </element>
   <element index="82">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="38162">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">82</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2770,7 +2782,7 @@
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
     <param index="35" name="DCA1_VOLUME">0.8</param>
-    <param index="36" name="DCA1_ATTACK">0</param>
+    <param index="36" name="DCA1_ATTACK">0.3</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
     <param index="39" name="DCA1_DECAY2">0.4</param>
@@ -2781,7 +2793,7 @@
    </params>
   </element>
   <element index="83">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="441">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">83</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2828,7 +2840,7 @@
    </params>
   </element>
   <element index="84">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="39731">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">84</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2863,7 +2875,7 @@
     <param index="32" name="LFO1_LEVEL2">0.2</param>
     <param index="33" name="LFO1_DECAY2">0.5</param>
     <param index="34" name="DCA1_ENABLED">1</param>
-    <param index="35" name="DCA1_VOLUME">0.8</param>
+    <param index="35" name="DCA1_VOLUME">0.5</param>
     <param index="36" name="DCA1_ATTACK">0</param>
     <param index="37" name="DCA1_DECAY1">1</param>
     <param index="38" name="DCA1_LEVEL2">1</param>
@@ -2875,7 +2887,7 @@
    </params>
   </element>
   <element index="85">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="45481">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">85</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2922,7 +2934,7 @@
    </params>
   </element>
   <element index="86">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="117102">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">86</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -2969,7 +2981,7 @@
    </params>
   </element>
   <element index="87">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="136445">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">87</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3016,7 +3028,7 @@
    </params>
   </element>
   <element index="88">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="77371">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">88</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3063,7 +3075,7 @@
    </params>
   </element>
   <element index="89">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="122853">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">89</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3110,7 +3122,7 @@
    </params>
   </element>
   <element index="90">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="130694">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">90</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3157,7 +3169,7 @@
    </params>
   </element>
   <element index="91">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="107169">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">91</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3204,7 +3216,7 @@
    </params>
   </element>
   <element index="92">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="78416">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">92</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3251,7 +3263,7 @@
    </params>
   </element>
   <element index="93">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="105601">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">93</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3298,7 +3310,7 @@
    </params>
   </element>
   <element index="94">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="50709">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">94</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3345,7 +3357,7 @@
    </params>
   </element>
   <element index="95">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="86781">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">95</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3392,7 +3404,7 @@
    </params>
   </element>
   <element index="96">
-   <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="198656">84-C6-Orshortra.ogg</sample>
+   <sample index="0" name="GEN1_SAMPLE" offset-end="198656" offset-start="41299">84-C6-Orshortra.ogg</sample>
    <params>
     <param index="0" name="GEN1_SAMPLE">96</param>
     <param index="1" name="GEN1_REVERSE">0</param>
@@ -3440,7 +3452,7 @@
   </element>
  </elements>
  <params>
-  <param index="0" name="GEN1_SAMPLE">48</param>
+  <param index="0" name="GEN1_SAMPLE">52</param>
   <param index="44" name="DEF1_PITCHBEND">0.2</param>
   <param index="45" name="DEF1_MODWHEEL">0.2</param>
   <param index="46" name="DEF1_PRESSURE">0.2</param>
@@ -3473,5 +3485,5 @@
   <param index="73" name="DYN1_COMPRESS">0</param>
   <param index="74" name="DYN1_LIMITER">1</param>
  </params>
- <current-element>48</current-element>
+ <current-element>52</current-element>
 </preset>
