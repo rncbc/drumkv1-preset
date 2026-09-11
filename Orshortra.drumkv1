@@ -1,11 +1,24 @@
 <!DOCTYPE drumkv1>
-<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="Orshortra">
+<preset name="Orshortra" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <comments>
-  An lo-fi instrument with a orchestral-cinematic character.
-  The samples used were recorded directly combining in a shot several PadthV1 and SamplV1 Factory presets.
-  (SamplV1 samples were created with SynthV1 Factory presets).
+    An lo-fi instrument with a orchestral-cinematic character.
+    The samples used were recorded directly combining in a shot several PadthV1 and SamplV1 Factory presets.
+    (SamplV1 samples were created with SynthV1 Factory presets).
+
+    You can customize each key using the offset and
+    envelope settings to emulate different orchestral sections.
+
+    For reference:
+
+    "Default Ensemble"  Attack 0, Offset 0.
+    "Winds"     Attack 0, Offset Start to X.
+    "Staccato"  Attack 0, Offset X to end.
+
+    Softening the attacks will yield slow winds or strings.
+    Experiment and enjoy.
  </comments>
  <elements>
+  <sample-rate>44100</sample-rate>
   <element index="24">
    <sample index="0" name="GEN1_SAMPLE" offset-start="441" offset-end="234496">24-C1-Orshortra.ogg</sample>
    <params>
