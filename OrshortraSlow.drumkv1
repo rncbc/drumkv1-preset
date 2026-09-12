@@ -1,5 +1,5 @@
 <!DOCTYPE drumkv1>
-<preset name="Orshortra" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
+<preset name="OrshortraSlow" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <comments>
     An lo-fi instrument with a orchestral-cinematic character.
     The samples used were recorded directly combining in a shot several PadthV1 and SamplV1 Factory presets.
@@ -56,7 +56,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -103,7 +103,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -150,7 +150,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -197,7 +197,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -244,7 +244,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -291,7 +291,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -338,7 +338,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -385,7 +385,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.3</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -432,7 +432,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -479,7 +479,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -526,7 +526,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -573,7 +573,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -620,7 +620,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -667,7 +667,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -714,7 +714,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -761,7 +761,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -808,7 +808,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -855,7 +855,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -902,7 +902,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -949,7 +949,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -996,7 +996,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1043,7 +1043,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1090,7 +1090,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1137,7 +1137,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1184,7 +1184,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1231,7 +1231,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1278,7 +1278,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1325,7 +1325,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1372,7 +1372,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1419,7 +1419,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1466,7 +1466,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1513,7 +1513,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1560,7 +1560,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1607,7 +1607,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1654,7 +1654,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1701,7 +1701,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1748,7 +1748,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.9</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1795,7 +1795,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.9</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1842,7 +1842,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">1</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1889,7 +1889,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1936,7 +1936,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -1983,7 +1983,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.9</param>
-    <param name="DCA1_ATTACK" index="36">0.01</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2030,7 +2030,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2077,7 +2077,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.3</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2124,7 +2124,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2171,7 +2171,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2218,7 +2218,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2265,7 +2265,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2312,7 +2312,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2359,7 +2359,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.9</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2406,7 +2406,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2453,7 +2453,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2500,7 +2500,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2547,7 +2547,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.3</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2594,7 +2594,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.2</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2641,7 +2641,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.4</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2688,7 +2688,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.4</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2735,7 +2735,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2782,7 +2782,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2829,7 +2829,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2876,7 +2876,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2923,7 +2923,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.6</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -2970,7 +2970,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3017,7 +3017,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.4</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3064,7 +3064,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3111,7 +3111,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3158,7 +3158,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.4</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3205,7 +3205,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.4</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3252,7 +3252,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.4</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3299,7 +3299,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.4</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3346,7 +3346,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.4</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3393,7 +3393,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3440,7 +3440,7 @@
     <param name="LFO1_DECAY2" index="33">0.5</param>
     <param name="DCA1_ENABLED" index="34">1</param>
     <param name="DCA1_VOLUME" index="35">0.8</param>
-    <param name="DCA1_ATTACK" index="36">0</param>
+    <param name="DCA1_ATTACK" index="36">0.5</param>
     <param name="DCA1_DECAY1" index="37">1</param>
     <param name="DCA1_LEVEL2" index="38">1</param>
     <param name="DCA1_DECAY2" index="39">0.4</param>
@@ -3452,7 +3452,7 @@
   </element>
  </elements>
  <params>
-  <param name="GEN1_SAMPLE" index="0">58</param>
+  <param name="GEN1_SAMPLE" index="0">62</param>
   <param name="DEF1_PITCHBEND" index="44">0.2</param>
   <param name="DEF1_MODWHEEL" index="45">0.2</param>
   <param name="DEF1_PRESSURE" index="46">0.2</param>
@@ -3485,5 +3485,5 @@
   <param name="DYN1_COMPRESS" index="73">0</param>
   <param name="DYN1_LIMITER" index="74">1</param>
  </params>
- <current-element>58</current-element>
+ <current-element>62</current-element>
 </preset>
