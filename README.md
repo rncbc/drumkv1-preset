@@ -1,9 +1,9 @@
 # DrumkV1 Factory Presets
 
-A collaborative repository of factory presets for DrumkV1. 
-If you want to submit your own presets, we are keen to include them, provided they meet the requirements below.
+A collaborative repository of factory presets for DrumkV1.
+The volume and panning settings you’ll find for individual instruments in a kit are only guidelines. They depend heavily on personal preference and the specific project. Feel free to edit them to your liking and save your own versions if necessary.
 
-> NOTE: The volume and panning settings for individual instruments in a kit are only guidelines. They depend heavily on personal preference and the specific project. Feel free to edit them to your liking and save your own versions if necessary.
+If you want to submit your own presets, we are keen to include them, provided they meet the requirements below.
 
 ## Requirements
 
