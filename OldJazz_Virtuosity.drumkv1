@@ -682,7 +682,7 @@
     <param name="DCF1_LEVEL2" index="17">0.9</param>
     <param name="DCF1_DECAY2" index="18">0.5</param>
     <param name="LFO1_ENABLED" index="19">1</param>
-    <param name="LFO1_SHAPE" index="20">4</param>
+    <param name="LFO1_SHAPE" index="20">3</param>
     <param name="LFO1_WIDTH" index="21">0.1</param>
     <param name="LFO1_BPM" index="22">180</param>
     <param name="LFO1_RATE" index="23">0.5</param>
