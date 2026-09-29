@@ -681,7 +681,7 @@
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.9</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="19" name="LFO1_ENABLED">0</param>
     <param index="20" name="LFO1_SHAPE">3</param>
     <param index="21" name="LFO1_WIDTH">0.1</param>
     <param index="22" name="LFO1_BPM">180</param>
@@ -775,7 +775,7 @@
     <param index="16" name="DCF1_DECAY1">0.5</param>
     <param index="17" name="DCF1_LEVEL2">0.2</param>
     <param index="18" name="DCF1_DECAY2">0.5</param>
-    <param index="19" name="LFO1_ENABLED">1</param>
+    <param index="19" name="LFO1_ENABLED">0</param>
     <param index="20" name="LFO1_SHAPE">4</param>
     <param index="21" name="LFO1_WIDTH">0.1</param>
     <param index="22" name="LFO1_BPM">180</param>
