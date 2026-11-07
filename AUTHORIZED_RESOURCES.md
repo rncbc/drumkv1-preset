@@ -63,6 +63,10 @@ If you'd like to propose additional resources that enable creating, modifying, o
 
 ### Samples
 
+* **Virtuosity Drums (Versilian Studios LLC. and Karoryfer)**
+  * *Description:* Contemporary Jazz drum kit library, performed with sticks.
+  * *Link:* [GitHub - sfzinstruments/virtuosity_drums](https://github.com/sfzinstruments/virtuosity_drums)
+
 * **Big Rusty Drums (Karoryfer)**
   * *Description:* A raw, massive acoustic drum kit packed with organic imperfections.
   * *Link:* [GitHub - sfzinstruments/karoryfer.big-rusty-drums](https://github.com/sfzinstruments/karoryfer.big-rusty-drums)
