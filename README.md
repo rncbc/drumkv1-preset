@@ -2,7 +2,7 @@
 
 A collaborative repository of factory presets for DrumkV1.
 
-The volume and panning settings you’ll find for individual instruments in a kit are only guidelines. They depend heavily on personal preference and the specific project. Feel free to edit them to your liking and save your own versions if necessary.
+The volume and panning settings you’ll find for individual instruments in a kit are only guidelines. They depend heavily on personal preference and the specific project. Feel free to edit any parameter to your liking and to save your own versions.
 
 If you want to submit your own presets, we are keen to include them, provided they meet the requirements below.
 
